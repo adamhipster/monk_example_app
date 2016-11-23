@@ -1,0 +1,16 @@
+{
+  "name": "monkapp",
+  "version": "0.0.0",
+  "description": "Creating a rudimentary monk app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melvin Roest",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "monk": "^3.1.3"
+  }
+}
